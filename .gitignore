@@ -1,0 +1,13 @@
+phpmailer/config_api.php
+composer/vendor
+introduce_composer/vendor
+phpmailer/vendor
+practice/autoload/vendor
+catetan.text
+# untuk memilih yang tidak mau di push
+# pertama tulis "git init" pada terminal 
+# pilih yang tidak ikut di push
+# lalu tulis "git status" pada terminal
+# maka otomatis akan tesr push secara sendirinya
+
+# vendor tidak ikut di push karena saat download lagi tinggal instal lagi ("composer install")

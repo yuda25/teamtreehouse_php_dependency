@@ -1,0 +1,14 @@
+{
+    "name": "kusuma/introduce_composer",
+    "description": "import package to project",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    },
+    "authors": [
+        {
+            "name": "kusuma",
+            "email": "kusuma@gmail.com"
+        }
+    ]
+}
